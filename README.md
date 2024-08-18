@@ -10,6 +10,14 @@ Python package and web app to retrieve and visualize data contained in SCKAN (e.
   <img src="resources/logo.png" width="300" alt="SCKAN-Compare">
 </p>
 
+## Video Presentation
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GmBeKvzVq9o">
+    <img src="https://img.youtube.com/vi/GmBeKvzVq9o/0.jpg" alt="SCKAN-Compare" width="700" />
+  </a>
+</p> 
+
 ## Project Objective
 
 The SPARC Connectivity Knowledge Base of the Autonomic Nervous System (SCKAN) is a semantic store that houses a comprehensive knowledge base of the autonomic nervous system (ANS) nerve-to-end organ connectivity. It is a key component of the SPARC Program and provides a central location to populate, discover, and query ANS connectivity knowledge at multiple scales. The information in SCKAN is derived from SPARC experts, SPARC data, literature, and textbooks.
@@ -57,8 +65,6 @@ The table provides a summary of the advantages of SCKAN-Compare over other exist
 | Map                 | Yes             | Yes    | Yes      |
 | Compare species     | Yes             | No     | No       |
 | Phenotypic Relation | Yes             | No     | No       |
-
-
 
 ## Installation
 
